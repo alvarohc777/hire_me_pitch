@@ -1,0 +1,113 @@
+# RESUME: ÁLVARO HERRADA
+
+## CONTACT & PERSONAL DETAILS
+- Location: Bern, Switzerland
+- Email: aherrada@uninorte.edu.co
+- Phone: +41 782531225
+- Work Permit: B (Resident)
+- Links: LinkedIn | Github | Portfolio
+
+## EDUCATION
+
+### Master of Science (M.Sc.) in Electrical Engineering
+- Institution: Universidad del Norte (Barranquilla, Colombia)
+- Graduation Date: March 2026
+- Publication/Thesis: Fault Detection System for Smart City Distribution Networks: A Long Short-Term Memory-Based Approach (Published in Energies, 2025)
+
+### Bachelor of Science in Electrical Engineering
+- Institution: Universidad del Norte (Barranquilla, Colombia)
+- Degree: Degree in Electrical Engineering
+
+## WORK EXPERIENCE
+
+### YipitData (Contractor via Turnkey)
+- Role: Data Specialist (Remote)
+- Location: Barranquilla, Colombia
+- Duration: Jul 2025 – Feb 2026
+- Key Contributions:
+  * Leveraged the OpenAI Developer Platform for prompt engineering, fine-tuning, model evaluation, and dataset quality assurance.
+  * Designed and deployed a Custom GPT to standardize analyst decision-making during manual data classification, improving labeling consistency and dataset quality.
+  * Engineered LLM-driven workflows using ChatGPT to automate documentation and data input preparation, reducing operational setup time by 87% (from 1 day to 1 hour).
+  * Conducted large-scale data analysis in Databricks using PySpark and SQL to audit model evaluation metrics and ensure strict data quality control.
+
+### BBVA (Multinational Banking Group)
+- Company Context: Employed within the same corporate banking group across two distinct regional assignments and contractual modalities.
+- Total Duration: Oct 2023 – Jun 2025
+
+  #### Role 1: Data Engineer — BBVA Colombia
+  - Location: Colombia (Remote)
+  - Duration: Nov 2024 – Jun 2025
+  - Key Contributions:
+    * Audited and validated contractor-developed data pipelines within BBVA's AWS Data Lake using PySpark and Databricks, identifying critical logic flaws and preventing faulty production deployments.
+    * Contributed to the migration of internal datalake pipelines to AWS as part of a data governance project, leveraging Spark Scala repos and Jupyter notebooks.
+    * Developed PySpark-based validation processes in Databricks to ensure quality, consistency, and integrity of business-critical datasets prior to downstream consumption.
+    * Built Python-based automations in Google Colab using Pandas to transform raw inputs (.txt, .dat, .xlsx) into production-ready .csv files, achieving a 92% reduction in manual data preparation time (from 1 hour to 5 minutes) while ensuring data integrity for Risk Management units under BCBS 239 standards.
+    * Refactored, maintained and enhanced an internal web app with Google Apps Script (JS, HTML, CSS), cutting load time by 20% and adding new features.
+
+  #### Role 2: Data Engineer — BBVA Argentina (Contractor via Bluetab, an IBM Company)
+  - Location: Argentina (Remote)
+  - Duration: Oct 2023 – Nov 2024
+  - Key Contributions:
+    * Collaborated with business stakeholders to gather requirements and deliver tailored data solutions.
+    * Developed automations, ingestion workflows, and job scheduling for data loading processes from various sources using Control-M, PySpark, and internal bank utilities.
+    * Produced technical documentation covering architectures, processes, and data lineage to support maintainability and compliance.
+
+### UTraffic
+- Role: Fullstack Engineer
+- Location: Barranquilla, Colombia
+- Duration: Apr 2023 – Oct 2023
+- Key Contributions:
+  * Containerized backend services, frontend applications, and databases using Docker and Docker Compose.
+  * Created an installer for C# services and VueJs/Electron Apps using InnoSetup (Pascal).
+  * Set up redundant Windows servers for high availability.
+  * Coded REST API in ASP.NET CORE Dotnet 6.0.
+  * Developed operational dashboards using Vue.js and Quasar.
+
+### Universidad del Norte
+- Location: Barranquilla, Colombia
+- Total Duration: May 2021 – Apr 2023
+
+  #### Role 1: Junior Researcher
+  - Duration: May 2021 – Apr 2023
+  - Key Contributions:
+    * Implemented parallel processing techniques in Python to optimize internal tools, leading to a significant 75% reduction in simulation time.
+    * Implemented a fault detection strategy for micro-grids, leveraging Deep Learning and Machine Learning techniques with PyTorch framework.
+    * Gained a theoretical foundation on methodologies applied in the detection of faults in micro-grids and active distribution networks.
+
+  #### Role 2: Teaching Assistant
+  - Duration: May 2021 – Apr 2023
+  - Key Contributions:
+    * Conducted laboratory sessions for the engineering subjects Circuits II and Electrical Machines I.
+
+## PROJECTS
+
+### Fault Detection Visualization App
+- Tech Stack: Numpy, Pandas, Plotly.js, Vanilla JavaScript, Django Ninja
+- Duration: Jan 2022 – May 2023
+- URL: alvarohc777.github.io
+- Description: Web App for visualization of fault detection strategy based on harmonic distortion as part of research project INTEGRA and my MSc thesis. Hosted on GitHub Pages (frontend) and PythonAnywhere (backend) respectively.
+
+### Django-allauth Headless Social Login
+- Tech Stack: Quasar, Django, Azure, OpenAPI
+- URL: sociallogin.azurewebsites.net
+- Description: Demonstration platform showcasing headless authentication with Google, GitHub, and Discord social login providers using django-allauth.
+
+### SEM (Fault & Event Simulation Automation Tool)
+- Tech Stack: Python, Numpy, Pandas, ATP-EMTP, CMD, Batch
+- URL: https://github.com/alvarohc777/SEM
+- Description: Modernized a legacy ATP-EMTP simulation tool by decoupling frontend and backend components, improving maintainability and extensibility.
+
+### LSTM Fault Detector
+- Tech Stack: PyTorch, Numpy, Pandas, Jupyter Notebooks
+- URL: https://github.com/alvarohc777/pyTorch
+- Description: LSTM based Fault Detector for Microgrids (MG) and Active Distribution Networks (ADN) for my thesis. Uses Jupyter Notebooks to document all progress. Dataset was created using the SEM automation tool.
+
+## CERTIFICATIONS & AWARDS
+- Certification: Scala & Functional Programming Essentials — Daniel Ciocîrlan | Udemy (11/2024)
+- Certification: PySpark & AWS: Master Big Data With PySpark and AWS — AI Sciences | Udemy (10/2024)
+- Certification: Deep Learning Specialization — DeepLearning.ai | Coursera (01/2023)
+- Certification: Mathematics for Machine Learning and Data Science Specialization — DeepLearning.ai | Coursera (02/2024)
+- Certification: Django for Everybody Specialization — University of Michigan | Coursera (12/2022)
+- Award: Champion of internal tournament Football XI with Finale FC (as Manager) — Universidad del Norte (11/2024)
+- Award: Champion of internal tournament Football XI with Finale FC (as Player) — Universidad del Norte (10/2020)
+- Language: German B2 — Instituto de Idiomas, Universidad del Norte (12/2017)

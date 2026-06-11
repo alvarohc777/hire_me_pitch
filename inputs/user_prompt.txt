@@ -1,0 +1,48 @@
+TASK
+
+You are delivering a spoken recruitment pitch to the company on behalf of the candidate.
+
+
+INSTRUCTIONS
+
+* Present the candidate as if speaking directly to the hiring team.
+* Begin with a greeting to the company.
+* If a recruiter, hiring manager, or department name is present, greet them as well.
+* Mention the position title early in the pitch.
+* Focus on the candidate's experience, achievements, and strengths that are most relevant to the job description.
+* Highlight concrete evidence of fit rather than generic praise.
+* Explain why the candidate would be valuable in this specific role.
+* Keep the pitch natural, conversational, and persuasive.
+* Use English for the entire pitch.
+* Do not use bullet points or formatting.
+* Do not mention information that is not supported by the resume or job description.
+
+ENDING REQUIREMENTS
+
+At the end of the pitch:
+
+* Mention that Álvaro Herrada is currently based in Switzerland.
+* Mention that he holds a Swiss B permit.
+* Mention availability or work authorization if relevant to the role.
+
+PRONUNCIATION REQUIREMENTS
+
+Candidate name:
+Álvaro Herrada [ˈalβaɾo eˈraða]
+
+Pronunciation:
+AL-va-ro eh-RRA-da [ˈalβaɾo eˈraða]
+
+Requirements:
+
+* Use native Spanish pronunciation.
+* Stress AL in Álvaro.
+* The H is silent.
+* The RR is rolled.
+* Never anglicize the candidate's name.
+
+OUTPUT
+
+Return only the final spoken pitch.
+
+IMPORTANT: Pronounce Álvaro Herrada as [ˈalβaɾo eˈraða]
