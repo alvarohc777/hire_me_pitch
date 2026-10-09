@@ -1,12 +1,10 @@
 import asyncio
 
-from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
 import utils.audio_utils as au
 
-load_dotenv()
 client = genai.Client()
 
 
